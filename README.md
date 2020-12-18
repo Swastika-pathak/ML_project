@@ -1,2 +1,2 @@
-This is a minor project based on machine learning using python 
-It uses the basic concepts of learning ML which mainly deals with python and its tools 
+This is a minor project based on machine learning using python.
+Analyzed how the student's performance is affected by the other factors using Exploratory Data Analysis. 
